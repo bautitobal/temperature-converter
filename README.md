@@ -1,5 +1,7 @@
 # Temperature Converter
 
+![Preview](https://prnt.sc/EnSGdBHrAm_f)
+
 ## Project Description
 
 This project is a Python program for converting temperatures between Celsius and Fahrenheit. It provides a simple user interface that allows the user to select the conversion direction and then input the temperature. The program will perform the conversion and display the result in the other temperature unit.
