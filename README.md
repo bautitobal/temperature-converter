@@ -1,6 +1,6 @@
 # Temperature Converter
 
-![Preview](https://prnt.sc/EnSGdBHrAm_f)
+![Preview](preview.jpg)
 
 ## Project Description
 
